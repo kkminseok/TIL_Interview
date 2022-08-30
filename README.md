@@ -20,6 +20,13 @@ Today I Learn Interview Study
 
 내가 글을 쓰진 않을거다. 나보다 글 잘 쓰는 사람들이 널렸기 때문이다. 내가 고생해서 글 써봤자 나보다 글 잘 쓰는 사람 글 읽는게 훨 이해도 잘된다.
 
+내가 개인적으로 도움을 받았다고 느낀 글들이다.
+
+Reference
+
+- <https://github.com/JaeYeopHan/Interview_Question_for_Beginner>
+
+-----
 
 ## 데이터베이스 관련
 
@@ -28,11 +35,17 @@ Today I Learn Interview Study
 ## 클린코드 관련
 
 - [좋은코드란?](https://jbee.io/etc/what-is-good-code/)
+
 > `cleancode`, `DRY`, `OCP`
+
+```text
+SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐다.
+```
 
 ## WEB 개발관련
 
 - [RESTful API란](https://meetup.toast.com/posts/92)
+
 > `RESOURCE`, `Verb`, `Representations`, `HTTP Method`
 
 ```text
@@ -45,3 +58,21 @@ Today I Learn Interview Study
 6. 파일 확장자 URL에 포함시키지마라. 대신 'Accept header'쓰자.
 
 ```
+
+## 네트워크 관련
+
+- [Network 기본](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Network)
+
+- [3-way-handshake](https://asfirstalways.tistory.com/356)
+- [TCP, UDP](https://asfirstalways.tistory.com/327)
+
+> `full-duplex`, `sliding window`, `Nalge Algorithm`
+
+- [HTTP/2에 관하여](https://tech.ssut.me/https-is-faster-than-http/)
+
+> `HTTP vs HTTPS`, `HTTPS/2`, `CDN`
+
+
+
+
+
