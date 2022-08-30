@@ -21,7 +21,7 @@ Today I Learn Interview Study
 내가 글을 쓰진 않을거다. 나보다 글 잘 쓰는 사람들이 널렸기 때문이다. 내가 고생해서 글 써봤자 나보다 글 잘 쓰는 사람 글 읽는게 훨 이해도 잘된다.
 
 
-## 1. 데이터베이스 관련
+## 데이터베이스 관련
 
 - [DB Index와 B-tree의 상관관계, 동작원리](https://brunch.co.kr/@skeks463/25)
 
