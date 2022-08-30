@@ -34,3 +34,14 @@ Today I Learn Interview Study
 
 - [RESTful API란](https://meetup.toast.com/posts/92)
 > `RESOURCE`, `Verb`, `Representations`, `HTTP Method`
+
+```text
+# REST API 디자인 가이드
+1. url에 'delete'이런 행위를 쓰지마라. 어차피 HTTP Method와 의미가 겹친다/
+2. '/'는 계층을 나타내는데 써라.
+3. url 너무 길면 하이픈(-)써도된다.
+4. (_)는 쓰지마라. 가려질때도 있다.
+5. RFC3986(문법 형식)에 따라 경로에는 소문자를 쓰는것을 추천.
+6. 파일 확장자 URL에 포함시키지마라. 대신 'Accept header'쓰자.
+
+```
