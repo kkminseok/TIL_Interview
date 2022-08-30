@@ -23,11 +23,14 @@ Today I Learn Interview Study
 
 ## 1. 데이터베이스 관련
 
-- DB Index와 B-tree의 상관관계, 동작원리 <https://brunch.co.kr/@skeks463/25>
+- [DB Index와 B-tree의 상관관계, 동작원리](https://brunch.co.kr/@skeks463/25)
 
 ## 클린코드 관련
 
-- 좋은코드란? <https://jbee.io/etc/what-is-good-code/>
+- [좋은코드란?](https://jbee.io/etc/what-is-good-code/)
 > `cleancode`, `DRY`, `OCP`
 
-- 
+## WEB 개발관련
+
+- [RESTful API란](https://meetup.toast.com/posts/92)
+> `RESOURCE`, `Verb`, `Representations`, `HTTP Method`
