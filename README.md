@@ -28,6 +28,11 @@ Reference
 
 -----
 
+## 운영체제 관련
+
+- [운영체제 기본](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS)
+- 
+
 ## 데이터베이스 관련
 
 - [DB Index와 B-tree의 상관관계, 동작원리](https://brunch.co.kr/@skeks463/25)
@@ -79,5 +84,15 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 > 추가적으로 물리적계층도 지남. 이 포스팅에서는 전송계층까지만 나타냄. <https://ehclub.co.kr/2039> <- 그림 참고>
 
 
+## 언어 관련
 
+### JAVA
 
+- [JVM](https://asfirstalways.tistory.com/158)
+- [Java GarbageCollection](https://mangkyu.tistory.com/118)
+- [Annotation](https://asfirstalways.tistory.com/309)
+> `Meta Annotation`, `Built-in-Annotation`, `Custom Annotation`
+
+- [Generic](https://st-lab.tistory.com/153)
+- [Java Generic vs C++ Template](https://chchang.tistory.com/entry/C%EC%9D%98-template%EA%B3%BC-Java-generic-method-%EC%99%80%EC%9D%98-%EA%B3%B5%ED%86%B5%EC%A0%90%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+- [JAVA Static? final? 정리](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/)
