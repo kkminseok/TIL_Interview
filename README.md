@@ -51,8 +51,6 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 
 - [RESTful API란](https://meetup.toast.com/posts/92)
 
-> `RESOURCE`, `Verb`, `Representations`, `HTTP Method`
-
 ```text
 # REST API 디자인 가이드
 1. url에 'delete'이런 행위를 쓰지마라. 어차피 HTTP Method와 의미가 겹친다/
@@ -67,17 +65,10 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 ## 네트워크 관련
 
 - [Network 기본](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Network)
-
-> `GET`, `POST`, `UDP`, `TCP`, `HTTP`, `HTTPS`, `DNS round robin`, 
-
 - [3-way-handshake](https://asfirstalways.tistory.com/356)
 - [TCP, UDP](https://asfirstalways.tistory.com/327)
-
-> `full-duplex`, `sliding window`, `Nalge Algorithm`
-
 - [HTTP/2에 관하여](https://tech.ssut.me/https-is-faster-than-http/)
-
-> `HTTP vs HTTPS`, `HTTPS/2`, `CDN`
+- [CDN?]
 
 - [요청 흐름](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
 
@@ -91,8 +82,6 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [JVM](https://asfirstalways.tistory.com/158)
 - [Java GarbageCollection](https://mangkyu.tistory.com/118)
 - [Annotation](https://asfirstalways.tistory.com/309)
-> `Meta Annotation`, `Built-in-Annotation`, `Custom Annotation`
-
 - [Generic](https://st-lab.tistory.com/153)
 - [Java Generic vs C++ Template](https://chchang.tistory.com/entry/C%EC%9D%98-template%EA%B3%BC-Java-generic-method-%EC%99%80%EC%9D%98-%EA%B3%B5%ED%86%B5%EC%A0%90%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [JAVA Static? final? 정리](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/)
@@ -101,5 +90,5 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [String vs StringBuilder vs StringBuffer](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20String%2CStringBuilder%2CStringBuffer%20%EC%B0%A8%EC%9D%B4.md)
 - [Wrapper class 쓰는이유](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Wrapper%20Class.md)
 - [== vs equls()](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%3D%3D%EC%99%80%20equals()%20%EC%B0%A8%EC%9D%B4.md)
-- [추상 클래스 vs 인터페이스](https://brunch.co.kr/@kd4/6)
+- [추상 클래스 vs 인터페이스, 자바가 다중상속을 지원하지 않는 이유](https://brunch.co.kr/@kd4/6)
 - [추상 클래스 vs 인터페이스 좀 더 자세한 글](http://alecture.blogspot.com/2011/05/abstract-class-interface.html)
