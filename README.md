@@ -92,3 +92,6 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [== vs equls()](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%3D%3D%EC%99%80%20equals()%20%EC%B0%A8%EC%9D%B4.md)
 - [추상 클래스 vs 인터페이스, 자바가 다중상속을 지원하지 않는 이유](https://brunch.co.kr/@kd4/6)
 - [추상 클래스 vs 인터페이스 좀 더 자세한 글](http://alecture.blogspot.com/2011/05/abstract-class-interface.html)
+- [Reflection 쉬운버전](https://tecoble.techcourse.co.kr/post/2020-07-16-reflection-api/)
+- [Reflection 첫부분 읽을만함](https://gyrfalcon.tistory.com/entry/Java-Reflection)
+- 
