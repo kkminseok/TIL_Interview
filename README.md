@@ -36,6 +36,11 @@ Reference
 ## 데이터베이스 관련
 
 - [DB Index와 B-tree의 상관관계, 동작원리](https://brunch.co.kr/@skeks463/25)
+- [샤딩이란](https://d2.naver.com/helloworld/14822)
+- [Stored Procedure 기본](https://devkingdom.tistory.com/323)
+- [Stored Procedure 성능비교]
+- [ORM]
+- [ORM과 Stored Procedure 비교]
 
 ## 클린코드 관련
 
@@ -73,6 +78,10 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [요청 흐름](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
 
 > 추가적으로 물리적계층도 지남. 이 포스팅에서는 전송계층까지만 나타냄. <https://ehclub.co.kr/2039> <- 그림 참고>
+
+- [Statueful/Stateless, HTTP, Rest](https://5equal0.tistory.com/entry/StatefulStateless-Stateful-vs-Stateless-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-HTTP-%EB%B0%8F-REST)
+
+
 
 
 ## 언어 관련
