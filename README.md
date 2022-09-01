@@ -45,8 +45,7 @@ Reference
 ## 클린코드 관련
 
 - [좋은코드란?](https://jbee.io/etc/what-is-good-code/)
-
-> `cleancode`, `DRY`, `OCP`
+- [단위테스트, 통합테스트](https://cjwoov.tistory.com/9)
 
 ```text
 SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐다.
