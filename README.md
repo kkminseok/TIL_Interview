@@ -56,6 +56,10 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 
 - [RESTful API란](https://meetup.toast.com/posts/92)
 - [Rate limit에 대해서 시리즈별로 읽는걸 추천.](https://etloveguitar.tistory.com/126)
+- [gRPC](https://godd.tistory.com/88)
+- [gRPC 구조](https://changhoi.github.io/posts/backend/grpc-internals/#gRPC%EC%9D%98-%ED%8A%B9%EC%A7%95)
+- [Rest vs gRPC 거의 HTTP/1.x vs HTTP/2.0](https://alledy.netlify.app/posts/rest-vs-grpc/)
+
 
 ```text
 # REST API 디자인 가이드
@@ -111,3 +115,4 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [마샬링(Marshaling)](https://strange-developer.tistory.com/47)
 - [직렬화(Serialization)](https://hub1234.tistory.com/26)
 - [마샬링 vs 직렬화](https://hyesun03.github.io/2019/09/08/marshalling-vs-serialization/)
+
