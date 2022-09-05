@@ -79,6 +79,7 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [TCP, UDP](https://asfirstalways.tistory.com/327)
 - [HTTP/2에 관하여](https://tech.ssut.me/https-is-faster-than-http/)
 - [HTTP/3에 관하여](https://ykarma1996.tistory.com/86)
+- [HTTP/3에 관하여2 컬럼](https://blog.cloudflare.com/ko-kr/http3-the-past-present-and-future-ko-kr/)
 - [CDN](https://www.alibabacloud.com/ko/knowledge/what-is-cdn)
 
 - [요청 흐름](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
