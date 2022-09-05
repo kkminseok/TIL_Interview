@@ -54,7 +54,7 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 ## WEB 개발관련
 
 - [RESTful API란](https://meetup.toast.com/posts/92)
-- [Rate limit에 대해서](https://etloveguitar.tistory.com/126)
+- [Rate limit에 대해서 시리즈별로 읽는걸 추천.](https://etloveguitar.tistory.com/126)
 
 ```text
 # REST API 디자인 가이드
