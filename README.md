@@ -31,7 +31,7 @@ Reference
 ## 운영체제 관련
 
 - [운영체제 기본](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS)
-- 
+- [Blocking, Non-blocking, Sync, aSync](https://jh-7.tistory.com/25)
 
 ## 데이터베이스 관련
 
