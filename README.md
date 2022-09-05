@@ -36,6 +36,8 @@ Reference
 ## 데이터베이스 관련
 
 - [DB Index와 B-tree의 상관관계, 동작원리](https://brunch.co.kr/@skeks463/25)
+- [DB Index가 B-tree를 선택한 이유](https://helloinyong.tistory.com/296)
+- [B-tree vs B+tree](https://zorba91.tistory.com/293)
 - [샤딩이란](https://d2.naver.com/helloworld/14822)
 - [Stored Procedure 기본](https://devkingdom.tistory.com/323)
 - [Stored Procedure 장단점(기본)](https://graduation.tistory.com/444)
