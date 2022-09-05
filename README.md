@@ -38,6 +38,7 @@ Reference
 - [DB Index와 B-tree의 상관관계, 동작원리](https://brunch.co.kr/@skeks463/25)
 - [샤딩이란](https://d2.naver.com/helloworld/14822)
 - [Stored Procedure 기본](https://devkingdom.tistory.com/323)
+- [Stored Procedure 장단점(기본)](https://graduation.tistory.com/444)
 - [Stored Procedure 성능비교]
 - [ORM]
 - [ORM과 Stored Procedure 비교]
