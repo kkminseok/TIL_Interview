@@ -54,6 +54,7 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 ## WEB 개발관련
 
 - [RESTful API란](https://meetup.toast.com/posts/92)
+- [Rate limit에 대해서](https://etloveguitar.tistory.com/126)
 
 ```text
 # REST API 디자인 가이드
@@ -102,4 +103,3 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [추상 클래스 vs 인터페이스 좀 더 자세한 글](http://alecture.blogspot.com/2011/05/abstract-class-interface.html)
 - [Reflection 쉬운버전](https://tecoble.techcourse.co.kr/post/2020-07-16-reflection-api/)
 - [Reflection 첫부분 읽을만함](https://gyrfalcon.tistory.com/entry/Java-Reflection)
-- 
