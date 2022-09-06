@@ -22,9 +22,7 @@ Today I Learn Interview Study
 
 내가 개인적으로 도움을 받았다고 느낀 글들이다.
 
-Reference
-
-- <https://github.com/JaeYeopHan/Interview_Question_for_Beginner>
+**모든 것은 주관적으로 판단해야합니다. 나름 거르고 걸렀지만 맞는 정보가 아닐수가 있다는 점.**
 
 -----
 
@@ -100,6 +98,7 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 ### JAVA
 
 - [JVM](https://asfirstalways.tistory.com/158)
+- [JVM 메모리 상세](https://jwjwj.tistory.com/23)
 - [Java GarbageCollection](https://mangkyu.tistory.com/118)
 - [Annotation](https://asfirstalways.tistory.com/309)
 - [Generic](https://st-lab.tistory.com/153)
