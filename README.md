@@ -28,7 +28,8 @@ Today I Learn Interview Study
 
 ## 운영체제 관련
 
-- [운영체제 기본](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS)
+- [운영체제 요약본](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS)
+- [운영체제 역할](https://cg-developer.tistory.com/385)
 - [Blocking, Non-blocking, Sync, Async 댓글도 참조](https://jh-7.tistory.com/25)
 - [Green Thread, Native Thread(ex| java)](https://itmore.tistory.com/entry/%EA%B7%B8%EB%A6%B0-%EC%8A%A4%EB%A0%88%EB%93%9C-%EB%9E%80)
 - [Green Thread, Native Thread](https://perfectacle.github.io/2019/03/10/green-thread-vs-native-thread/)
