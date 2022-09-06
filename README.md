@@ -114,6 +114,7 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [Reflection 쉬운버전](https://tecoble.techcourse.co.kr/post/2020-07-16-reflection-api/)
 - [Reflection 첫부분 읽을만함](https://gyrfalcon.tistory.com/entry/Java-Reflection)
 - [동등성, 동일성](https://pulpul8282.tistory.com/229)
+- [컴파일과 빌드](https://itholic.github.io/qa-compile-build-deploy/)
 
 ## 기타
 
