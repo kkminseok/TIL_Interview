@@ -125,3 +125,9 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [코루틴](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
 - [병렬성 vs 동시성](https://velog.io/@jaebig/python-%EB%8F%99%EC%8B%9C%EC%84%B1-%EA%B4%80%EB%A6%AC-3-%EC%BD%94%EB%A3%A8%ED%8B%B4Coroutine)
 - [불변성 객체](https://seunghyunson.tistory.com/24)
+- [Boolean은 왜 1byte일까](https://perfectacle.github.io/2016/12/30/Java-study-001day/)
+
+## 재미, 상식
+
+- [용량에 대하여](https://perfectacle.github.io/2017/01/23/Computer-capacity-fact/)
+- [인터넷 속도 상술](https://perfectacle.github.io/2017/01/23/giga-internet-fact/)
