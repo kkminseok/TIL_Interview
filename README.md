@@ -100,6 +100,7 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 
 - [JVM](https://asfirstalways.tistory.com/158)
 - [JVM 메모리 상세](https://jwjwj.tistory.com/23)
+- [JVM NaverD2 버전](https://d2.naver.com/helloworld/1230)
 - [Java GarbageCollection](https://mangkyu.tistory.com/118)
 - [Annotation](https://asfirstalways.tistory.com/309)
 - [Generic](https://st-lab.tistory.com/153)
