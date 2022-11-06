@@ -51,6 +51,7 @@ Today I Learn Interview Study
 - [좋은코드란?](https://jbee.io/etc/what-is-good-code/)
 - [단위테스트, 통합테스트](https://cjwoov.tistory.com/9)
 
+
 ```text
 SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐다.
 ```
@@ -136,3 +137,7 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 
 - [용량에 대하여](https://perfectacle.github.io/2017/01/23/Computer-capacity-fact/)
 - [인터넷 속도 상술](https://perfectacle.github.io/2017/01/23/giga-internet-fact/)
+
+## Todo
+
+- Junit사용이유
