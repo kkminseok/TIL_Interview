@@ -90,6 +90,8 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 > 추가적으로 물리적계층도 지남. 이 포스팅에서는 전송계층까지만 나타냄. <https://ehclub.co.kr/2039> <- 그림 참고>
 
 - [Statueful/Stateless, HTTP, Rest](https://5equal0.tistory.com/entry/StatefulStateless-Stateful-vs-Stateless-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-HTTP-%EB%B0%8F-REST)
+- [Ajax, Fetch, Axios](https://velog.io/@kysung95/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D-Ajax%EC%99%80-Axios-%EA%B7%B8%EB%A6%AC%EA%B3%A0-fetch)
+- [Promise의 장점](https://poiemaweb.com/es6-promise)
 
 
 
@@ -98,9 +100,9 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 
 ### JAVA
 
+- [자바 설치 디렉터리 구조 설명](https://usefultoknow.tistory.com/entry/JDK%EC%99%80-JRE%EB%9E%80-%EC%9E%90%EB%B0%94-API%EB%9E%80)
 - [JVM](https://asfirstalways.tistory.com/158)
 - [JVM 메모리 상세](https://jwjwj.tistory.com/23)
-- [JVM NaverD2 버전](https://d2.naver.com/helloworld/1230)
 - [Java GarbageCollection](https://mangkyu.tistory.com/118)
 - [Annotation](https://asfirstalways.tistory.com/309)
 - [Generic](https://st-lab.tistory.com/153)
@@ -127,6 +129,8 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 - [병렬성 vs 동시성](https://velog.io/@jaebig/python-%EB%8F%99%EC%8B%9C%EC%84%B1-%EA%B4%80%EB%A6%AC-3-%EC%BD%94%EB%A3%A8%ED%8B%B4Coroutine)
 - [불변성 객체](https://seunghyunson.tistory.com/24)
 - [Boolean은 왜 1byte일까](https://perfectacle.github.io/2016/12/30/Java-study-001day/)
+- [API vs Library](https://eine.tistory.com/entry/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-API-ABI-%EB%9C%BB-%EB%B9%84%EA%B5%90-%EC%A0%95%EB%A6%AC)
+- [배포 전략 카나리, 롤링, 블루/그린](https://onlywis.tistory.com/10)
 
 ## 재미, 상식
 
