@@ -141,3 +141,4 @@ SRP, OCP, LSP, ISP, DIP 등은 CleanCode책을 읽는게 제일 이해가 빨랐
 ## Todo
 
 - Junit사용이유
+- 트랜잭션 분리법칙
